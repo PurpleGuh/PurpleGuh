@@ -1,4 +1,5 @@
-## Oiii eu sou o Gustavo Saraiva , criador de conteúdo,Ilustrador Digital, Estudante de Promgramação e Designer de Games.
+## Oiii eu sou o Gustavo Saraiva.
+Ilustrador Digital, Estudante de Programação e Designer de Games.
 <div align="center">
   <a href="https://github.com/PurpleGuh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PurpleGuh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
